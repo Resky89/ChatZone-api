@@ -50,8 +50,8 @@ To get started with the Express.js Chatzone API, follow these steps:
 
 1. Clone repositori:
     ```sh
-    git clone https://github.com/Resky89/express.js-chatzone-api.git
-    cd express.js-chatzone-api
+    git clone https://github.com/Resky89/Chatzone-api.git
+    cd Chatzone-api
     ```
 
 2. Instal dependensi:
@@ -77,8 +77,8 @@ To get started with the Express.js Chatzone API, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Resky89/express.js-chatzone-api.git
-    cd express.js-chatzone-api
+    git clone https://github.com/Resky89/Chatzone-api.git
+    cd Chatzone-api
     ```
 
 2. Install the dependencies:
@@ -121,10 +121,6 @@ Here are some of the main API endpoints:
 - `POST /api/chats`: Membuat chat baru / Create a new chat
 - `GET /api/chats/:chatId/messages`: Mendapatkan pesan untuk chat tertentu / Get messages for a specific chat
 - `POST /api/chats/:chatId/messages`: Mengirim pesan ke chat tertentu / Send a message to a specific chat
-
-Untuk daftar lengkap endpoint API dan deskripsinya, silakan merujuk ke [Dokumentasi API](API_DOCUMENTATION.md).
-
-For a full list of API endpoints and their descriptions, please refer to the [API Documentation](API_DOCUMENTATION.md).
 
 ## 🤝 Kontribusi / Contributing
 
